@@ -10,13 +10,20 @@ This class has attributes of coordinates and constructor along with getters of t
 Shape Class:
 
 This class contains a center and side Length along with the constructor of shape, and an abstract method for checking the point within the shape. ContainingAPoint();
+
 Triangle Class:
+
 
 This class is extended from shape class, it has 3 vertices, height, and an apothem for a triangle.
 With some methods of calculating the total area, then checking the point
+
 Hexagon:
+
 This class in extended from shape class and has methods of getting a height as it is also composed of 6 triangles, then checking whether it contains point in it or not.
-Square:  
+
+Square: 
+
 This class is extended by shape class, and it has a constructor and method for checking the point in it.
 Circle:
+
 This class is extended by shape class, and it has a constructor and method for checking the point in it.  
